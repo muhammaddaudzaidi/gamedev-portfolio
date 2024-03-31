@@ -4,17 +4,23 @@
 
     <div class="paragraph">
       <div>
-        I'm <strong>John Matrix</strong>, a former Delta Force operative, now a hobbyist lumberjack.<br/>
-        I spend my days living alone with my daughter Jenny, and cutting trees and carrying trunks around to keep in shape.
+        I'm <strong>Daud Zaidi</strong>, a game designer & developer!<br/>
+        I have 18 months of experience as a <strong>Game Designer</strong> while I also participated in game jams as a <strong>Game Developer</strong>.
       </div>
 
-      <div style="margin-top: 20px;">I've worked on  <router-link to="/game-projects">stuff</router-link>, on <router-link to="/other-projects">other stuff</router-link>, and took part in <router-link to="/resume">a few things</router-link> as well.</div>
-
-      <div style="margin-top: 40px;">I'm <strong>currently looking for a job</strong> as a monk, like my good friend John Rambo did a few years back. You can reach me at <a href="mailto:johnmatrix@deltaforce.us">johnmatrix@deltaforce.us</a> or <router-link to="/contact">through here</router-link>.</div>
+      <div style="margin-top: 20px;">
+          During my career as a Game Designer, I have worked on four mobile games that can be viewed from <strong><router-link to="/game-projects">Published Games</router-link></strong> section.<br/>
+          
+          In addition, I have also participated in <strong><router-link to="/other-projects">Game Jams</router-link></strong> where I was both a programmer and a designer for my teams.<br />
+          
+          You can also check out my <strong><router-link to="/resume">Resume</router-link></strong> to know better about my skills and achievements!<br />
+      </div>
+      
+      <div style="margin-top: 40px;">Currently, I am on a lookout for a role in <strong>Game Design</strong>. If you like my profile, you can reach me at <strong><a href="mailto:sydaudzaidi@gmail.com">sydaudzaidi@gmail.com</a></strong> or <strong><router-link to="/contact">through here</router-link></strong>.</div>
     </div>
 
     <div class="photo">
-      <img src="img/avatar.png" alt="Avatar of John" /> 
+      <img src="img/Daud Zaidi.png" alt="Avatar of Daud" /> 
     </div>
 
     <div style="clear:both"></div>

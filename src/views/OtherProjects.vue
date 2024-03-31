@@ -1,9 +1,9 @@
 <template>
   <div>
-    <h1>Other stuff</h1>
+    <h1>Game Jam Submissions</h1>
 
     <div style="margin-bottom: 30px;">
-      And here are some other stuff I've made or heavily contributed to, which are totally different than the stuff from earlier.
+      And here are the submissions from the two game jams that I have participated in. More to follow soon ; ).
     </div>
     <ProjectsList v-bind:projects="projects" />
   </div>

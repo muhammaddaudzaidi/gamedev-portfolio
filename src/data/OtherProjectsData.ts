@@ -1,106 +1,59 @@
 import ProjectData from '@/data/ProjectData.ts'
 
 export default [
-    new ProjectData("project-6", "Sultans Of Sing", "img/projects/project-6-icon.png", `
+    new ProjectData("project-6", "Cosmic Defense", "img/projects/project-6-icon.png", `
     <div class="paragraph">
-      <strong>Sultans Of Sing</strong> is a thing of beauty that I am so proud of. It's available on Windows Store because why not.
-      <br/>Image by <a href="https://www.pexels.com/fr-fr/@aldoalz" target="blank">Aldo Picaso</a>.
-            </div>
-            <div class="paragraph center">
-              <a href="https://www.microsoft.com/en-us/p/some-app" target="_blank"><img src="img/projects/ms-store-logo.png" alt="MS Store button" /></a>
-          </div>
+      <strong>Cosmic Defense</strong> was my first submission in a game jam. I had an opportunity to serve both as
+      a designer and developer. I also did the voice overs for the invisible Alien Lord!
 
           <div class="paragraph">
-            Main features :
+        <div class="notice">
+        Downloadable on Android on <a href="https://zedi-d.itch.io/cosmic-defence" target="_blank">itch.io</a>.
+        Source code is available on <a href="https://github.com/muhammadanas-x/Cosmic-Defense" target="_blank">GitHub</a>.
+        </div>
+
+          <div class="paragraph">
+            Main contributions :
             <ul>
-            <li>Some stuff</li>
-            <li>Some great stuff</li>
-            <li>More awesome stuff</li>
-            <li>And then some</li>
+            <li>Responsible for giving the idea of a hypercasual spin on traditional tower defense games</li>
+            <li>Contributed for both designing and implementing the game balncing aspect</li>
+            <li>Designed the architecture for the game</li>
+            <li>Programmed the Menu and Audio setup</li>
+            <li>Sound design including the voice overs for the Alien Lord</li>
             </ul>
         </div>
 
         <div class="paragraph center">
-          <img class="pc-screenshot" src="https://fakeimg.pl/534x300/" alt="Sultans Of Sing Screenshot" />
-          <img class="pc-screenshot" src="https://fakeimg.pl/534x300/" alt="Sultans Of Sing Screenshot" />
-          <img class="pc-screenshot" src="https://fakeimg.pl/534x300/" alt="Sultans Of Sing Screenshot" /> 
+          <img class="pc-screenshot" src="img/projects/Cosmic Defense/CosmicDefense_S1.jpeg" alt="Cosmic Defense_S1" />
+          <img class="pc-screenshot" src="img/projects/Cosmic Defense/CosmicDefense_S2.jpeg" alt="Cosmic Defense_S2" />
+          <img class="pc-screenshot" src="img/projects/Cosmic Defense/CosmicDefense_S3.jpeg" alt="Cosmic Defense_S3" />
         </div>
-    `, "#c10606", false, true),
-    new ProjectData("project-7", "Drew Blood", "img/projects/project-7-icon.png", `
+            </div>`, "#1ca1e2"),
+    new ProjectData("project-7", "Forbidden Light", "img/projects/project-7-icon.png", `
     <div class="paragraph">
-                <strong>Drew Blood</strong> is a thing of beauty that I am so proud of. I could write about it for hours.
-                <br/>Image by <a target="_blank" href="https://www.pexels.com/fr-fr/@karolina-grabowska">Karolina Grabowska</a>.
-            </div>
+                <strong>Forbidden Light</strong> was my second game jam. I had an opportunity to team up with international
+                team members and I had tremendous amount of fun designing the game. It is a project that I will work more on
+                as well in the future
+                </div>
+
+                <div class="paragraph">
+        <div class="notice">
+        Downloadable on Android on <a href="https://mqnguye3.itch.io/forbidden-light" target="_blank">itch.io</a>.
+        Source code is available on <a href="https://github.com/ampfyDEV/Team7" target="_blank">GitHub</a>.
+        </div>
 
             <div class="paragraph">
-              Main features :
+              Main contributions:
               <ul>
-              <li>Some stuff</li>
-              <li>Some great stuff</li>
-              <li>More awesome stuff</li>
-              <li>And then some</li>
+              <li>Prepared the Game Design Document</li>
+              <li>Game Level design</li>
+              <li>Story/Narrative design that set the tone for art and music</li>
               </ul>
           </div>
 
-            <div class="paragraph">
-              <div class="notice">
-                You can download and try the app for free or purchase it directly from <a href="http://www.somewbsite.com/" target="_blank">Some website</a>
-              </div>
-            </div>
-
             <div class="paragraph center">
-                <img class="pc-screenshot" src="https://fakeimg.pl/534x300/" alt="Drew Blood Screenshot" />
-                <img class="pc-screenshot" src="https://fakeimg.pl/534x300/" alt="Drew Blood Screenshot" />
-                <img class="pc-screenshot" src="https://fakeimg.pl/534x300/" alt="Drew Blood Screenshot" /> 
+                <img class="pc-screenshot" src="img/projects/Forbidden Light/ForbiddenLight_S1.png" alt="ForbiddenLight_S1" />
+                <img class="pc-screenshot" src="img/projects/Forbidden Light/ForbiddenLight_S2.png" alt="ForbiddenLight_S2.png" />                
             </div>`, "#1ca1e2"),
-    new ProjectData("project-8", "The Art of Walking", "img/projects/project-8-icon.png", `
-    <div class="paragraph">
-                <strong>The Art of Walking</strong> is a thing of beauty that I am so proud of. I could write about it for hours.
-            </div>
-
-            <div class="paragraph center">
-              <a href="https://play.google.com/store/apps/details?id=someapp" target="_blank"><img src="img/projects/play-store-logo.png" alt="Play Store badge" /></a>
-          </div>
-
-          <div class="paragraph">
-          Main features :
-          <ul>
-          <li>Some stuff</li>
-          <li>Some great stuff</li>
-          <li>More awesome stuff</li>
-          <li>And then some</li>
-          </ul>
-      </div>
-
-            <div class="paragraph">
-              <div class="notice">
-                Source code available on <a href="https://github.com/yourself" target="_blank">GitHub</a>.
-              </div>
-            </div>
-
-            <div class="paragraph center">
-                <img class="phone-screenshot" src="https://fakeimg.pl/300x534/" alt="The Art of Walking Screenshot" />
-                <img class="phone-screenshot" src="https://fakeimg.pl/300x534/" alt="The Art of Walking Screenshot" />
-            </div>`),
-    new ProjectData("project-9", "Nikolable", "img/projects/project-9-icon.png", `
-     <div class="paragraph">
-                <strong>Nikolable</strong> is a thing of beauty that I am so proud of. I could write about it for hours.
-                <br/>Image by <a target="_blank" href="https://www.pexels.com/fr-fr/@goumbik">Lukas</a>.
-            </div>
-
-            <div class="paragraph">
-        Main features :
-        <ul>
-        <li>Some stuff</li>
-        <li>Some great stuff</li>
-        <li>More awesome stuff</li>
-        <li>And then some</li>
-        </ul>
-    </div>
-
-            <div class="paragraph">
-              <div class="notice">
-                Source code available on <a href="https://github.com/yourself" target="_blank">GitHub</a>.
-              </div>
-            </div>`),
+    
 ];
